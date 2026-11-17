@@ -1,9 +1,9 @@
 # Jumping Cat
 
-## Background
+## 📖 Background
 A top-down 3D puzzle game built around grid-based movement and modular levels.
 
-## Functionality
+## 🎮 Functionality
 Navigate timing-based traps and logic switches, with grid movement, modular level design and state management.
 
 ## 🛠️ Tech Stack
